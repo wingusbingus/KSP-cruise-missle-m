@@ -1,6 +1,3 @@
-// This program gains altitude and it maintains it
-// Switch to 0.
-
 clearscreen.
 print("Starting cruiser vM . . .").
 
