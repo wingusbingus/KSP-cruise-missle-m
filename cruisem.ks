@@ -93,7 +93,7 @@ until stable {
 set pit to 20.
 
 until descent {
-	// ugly math
+	
 	set phi1 to latitude.
 	set phi2 to target:latitude.
 	set deltaPhi to (latitude - target:latitude).
