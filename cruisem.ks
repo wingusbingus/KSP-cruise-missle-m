@@ -12,10 +12,10 @@ lights on.
 set tVal to 1.
 lock throttle to tVal.
 
-set hdg to target:heading.			// Heads to target
+set hdg to target:heading.
 set pit to 90.
-set pitRate to 2.					// PITCH RATE
-set targetAltitude to 15000.		// TALT
+set pitRate to 2.
+set targetAltitude to 15000.
 set tSpeed to 1100.
 set speedError to 40.
 set planetRadius to 600000.
